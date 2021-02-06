@@ -1,41 +1,38 @@
-# Unit 14 Sequelize Homework: Reverse Engineering Code
 
-Reverse engineer the starter code provided and create a tutorial for the code.
+  ![License](https://img.sheilds.io/badge/license-MIT-purple)
+  # README Reverse Engineering Code
 
-In the `Develop` folder, there is starter code for a project. Begin inspecting the code to get an understanding of each file's responsibility. Then, in a Google Doc, write a tutorial explaining *every* file and its purpose. If one file is dependant on other files, be sure to let the user know.
+  As someone who wants to safely log into "this website", I want to know my personal details are safely stored so that I don't have to worry about using this website".
 
-At the end of the tutorial, add instructions for how you could now add changes to this project.
+  ## Table of contents
 
-Following the [common templates for user stories](https://en.wikipedia.org/wiki/User_story#Common_templates), we can frame this challenge as follows:
+   * [License](#license)
+   * [Installation](#install)
+   * [Usage](#userinfo)
+   * [Tests](#tests)
+   * [Contributions](#contribute)
+   * [Questions](#questions)
+   
+  ## License
 
-```
-AS A developer
+  MIT
 
-I WANT a walk-through of the codebase
+  ## Installation
+  
+  Google Docs
 
-SO THAT I can use it as a starting point for a new project
-```
+  ## Usage
 
-## Business Context
+  https://docs.google.com/document/d/1DTs-3u6r1izJCY0A_Z-DIvXFGz4KvM1ggwExZlh5dW0/edit
 
-When joining a new team, you will be expected to inspect a lot of code that you have never seen before. Rather than having a team member explain every line for you, you will dissect the code by yourself, saving any questions for a member of your team.
+  ## Tests
 
-## Acceptance Criteria
+  Email me for detatils
 
-```md
-GIVEN a Node.js application using Sequelize and Passport
-WHEN I follow the walkthrough
-THEN I understand the codebase
-```
-- - -
+  ## Contributions
 
-## Submission on BCS
+  possibly, contact me and we'll discuss
 
-You are required to submit the following:
+  ## Questions
 
-* A link to a Google Doc or video explaining the application in `Develop/`. 
-
-_Note: Don't forget to change the sharing settings on your Google Doc._
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+  If you have any questions, email me at dwalleye66@gmail.com
